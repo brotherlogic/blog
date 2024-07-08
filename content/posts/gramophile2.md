@@ -2,6 +2,7 @@
 title: "Gramophile Update"
 date: 2024-07-07T14:19:16-07:00
 ---
+
 Three weeks have passed, and I don't think I did that much. I worked mainly
 on the printing piece. I have gramophile reminding me to mint up on certain
 records that I want to get OGs of, but the ability to print moves eluded me. I tracked
