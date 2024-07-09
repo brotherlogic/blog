@@ -16,7 +16,7 @@ jobs:
         with:
           hugo-version: '0.119.0'
       - name: Build
-        run: hugo
+        run: hugo -v
       - name: Deploy
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
