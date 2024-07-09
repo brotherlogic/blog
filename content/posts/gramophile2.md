@@ -11,6 +11,7 @@ the release data from Discogs. There's a seperate end point for updating
 details about the specific record you're updating. I've nearly finished the update
 that will enable that and that should unlock move printing.
 
+
 Sale adjustments look fine to me, at least under the settings I'm running
 on. I'm fairly confident that I have test coverage of the other settings (i.e. 
 the ones I don't use myself). I found some bugs that may explain the queue
