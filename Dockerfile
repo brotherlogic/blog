@@ -1,6 +1,6 @@
 # Stage 1: Build the Hugo site
 # We use a specific Hugo version to ensure consistent builds.
-FROM klakegg/hugo:0.123.3-ext-alpine AS builder
+FROM klakegg/hugo:0.147.3-ext-alpine AS builder
 
 # Set the working directory inside the container
 WORKDIR /src
